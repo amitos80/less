@@ -1,6 +1,6 @@
 {
   "name": "less",
-  "version": "0.0.186",
+  "version": "0.0.189",
   "description": "updated design for a better fb expirience",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

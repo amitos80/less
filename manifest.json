@@ -1,7 +1,8 @@
 {
   "name": "less",
+  "short_name": "less",
   "description": "updated design for a better fb expirience",
-  "version": "0.0.179",
+  "version": "0.0.182",
   "icons": {
     "16": "assets/icon_16x16.png",
     "32": "assets/icon_32x32.png",
