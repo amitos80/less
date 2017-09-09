@@ -1,0 +1,12 @@
+.idea/
+dist/
+.tx/
+node_modules/
+.DS_Store/
+coverage/
+
+*.iml
+*.log
+
+webpack-assets.json
+webpack-stats.json

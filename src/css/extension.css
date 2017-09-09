@@ -1,0 +1,403 @@
+
+
+/* mobile */
+
+._4g33._15n_ {
+    background: #ffffff;
+    border: 1px solid #e9ebee;
+}
+
+._55wp._52z5._451a._3qet._17gp {
+    background: #3e537d !important;
+    background-color: #3e537d !important;
+    border-bottom: none;
+}
+
+#page,
+#MRoot {
+    background: #ffffff;
+}
+
+footer ._4nmh._4u3j:before,
+footer ._52jh._4g33._15kk._15ks._15km:before {
+    display: none !important;
+}
+
+footer ._4nmh._4u3j,
+footer ._52jh._4g33._15kk._15ks._15km {
+    border-top: 1px solid #f3f3f3;
+    background: #ffffff;
+}
+
+header {
+    border-top: 1px solid #f3f3f3 !important;
+}
+
+/* desktop */
+
+*, body {
+    max-content: 600px !important;
+}
+
+.fbTimelineTwoColumn table.uiGrid > tbody  tr {
+    display: block !important;
+    width: 324px !important;
+}
+
+.fbTimelineTwoColumn table.uiGrid > tbody tr td{
+    //flex: 1 !important;
+    width: 103px !important;
+    height: 103px !important;
+}
+
+
+body {
+    overflow-x: hidden !important;
+}
+
+/* post video text on video */
+._5pcr.fbUserPost  ._5pbx.userContent ._3x-2 ._42ef {
+    position: absolute;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.7);
+    z-index: 3;
+    height: 40px;
+}
+
+#contentArea {
+    width: 786px !important;
+}
+
+#pagelet_advertiser_panel {
+    display: none !important;
+}
+
+#rightCol {
+    display: none !important;
+}
+
+#leftCol {
+    display: none !important;
+}
+
+#mainContainer {
+
+}
+
+.pagelet-group.pagelet {
+    display: none !important;
+}
+
+#rc\2e u_0_r {
+    border-radius: 0 !important;
+}
+
+* {
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.rc\.u_0_r::before {
+    border-radius: 0 !important;
+}
+
+._2yq ._4-u2::before {
+    width: 100% !important;
+    max-width: 700px !important;
+    border-radius: 0 !important;
+    border: none !important;
+}
+
+div::before {
+    width: 100% !important;
+    max-width: 700px !important;
+    border-radius: 0 !important;
+    border: none !important;
+}
+
+._4-u2 {
+    width: 100% !important;
+    max-width: 700px !important;
+    border-radius: 0 !important;
+    border: none !important;
+}
+
+._4-u2::before {
+    width: 100% !important;
+    max-width: 700px !important;
+    border-radius: 0 !important;
+    border: none !important;
+}
+
+._2yq._4-u2::before {
+    width: 100% !important;
+    max-width: 700px !important;
+    border-radius: 0 !important;
+    border: none !important;
+}
+
+._li #globalContainer #content #top_filter ._4-u2.mbm._5sqx._4-u8 {
+    margin-left: 0 !important;
+}
+
+/* fb page layout */
+#content #content_container ._14iw._1qkq._1qku {
+    display: none !important;
+}
+
+/* fb page layout */
+#content #content_container ._2pie._14i5._1qkq._1qkx {
+    display: block;
+    width: 700px !important;
+    margin-left: 380px !important;
+}
+
+#pages-header ._4-u2,
+#pages-header ._4-u2::before {
+    max-width: 796px !important;
+}
+
+/* div._2a2q[style], */
+div.uiScaledImageContainer[style] {
+    width: 100% !important;
+    max-width: 675px !important;
+}
+
+/* post article image and image border amit */
+
+._5pcr.fbUserPost ._3x-2 ._6m2._1zpr.clearfix._dcs._4_w4._59ap {
+    max-width: 675px !important;
+}
+
+.fbUserPost ._6m2._1zpr.clearfix._dcs._4_w4._59ap .lfloat._ohe uiScaledImageContainer._6m5.fbStoryAttachmentImage[style],
+.fbUserPost ._6m2._1zpr.clearfix._dcs._4_w4._59ap .lfloat._ohe uiScaledImageContainer._6m5.fbStoryAttachmentImage,
+._6m2._1zpr.clearfix._dcs._4_w4._59ap ._6ks .uiScaledImageContainer._6m5.fbStoryAttachmentImage {
+    margin: 0 !important;
+    width: 100% !important;
+}
+
+#stream_pagelet .fbUserContent .mtm > ._5cq3 > a._4-eo._2t9n,
+#stream_pagelet .uiScaledImageContainer.fbStoryAttachmentImage,
+#stream_pagelet .fbUserContent .uiScaledImageContainer {
+    margin: 0 !important;
+    width: 100% !important;
+}
+
+#initial_browse_result {
+    max-width: 700px;
+}
+
+
+#globalContainer .fb_content.clearfix #top_filter ._4-u2.mbm._5sqx._4-u8 {
+    margin-left: 318px;
+}
+
+
+#stream_pagelet ._4ikz .fbUserContent .uiScaledImageContainer {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+._5pcr.fbUserPost ._3x-2 div._2a2q[style] {
+    margin: auto !important;
+}
+
+
+._5vb_.hasLeftCol #mainContainer {
+    margin-left: 334px !important;
+}
+
+/*
+#globalContainer {
+    margin-left: 310px !important;
+}
+*/
+
+body.hasLeftCol {
+    margin: 0 !important;
+}
+
+#browse_result_area {
+    margin-left: -509px !important;
+}
+
+#headerArea {
+    margin-left: -308px;
+    width: 698px !important;
+}
+
+#event_related_events {
+    display: none !important;
+}
+
+#pagelet_rhc_footer {
+    display: none !important;
+}
+
+@keyframes scaling {
+    0%   { scale(0.0); }
+    50%  { scale(0.5); }
+    100% { scale(1.0); }
+}
+
+@keyframes slide {
+    from {height: 0;}
+    to {height: 100%;}
+}
+
+@keyframes fadeInFromNone {
+    0% {
+        opacity: 0
+    }
+
+    50% {
+        opacity: 0
+    }
+
+    100% {
+        opacity: 1
+    }
+}
+
+.fbPhotoSnowliftContainer.snowliftPayloadRoot.uiContextualLayerParent {
+    animation: fadeInFromNone 0.25s ease forwards;
+}
+
+div[role="dialog"] {
+    animation: fadeInFromNone 0.25s ease forwards;
+    border-radius: 0 !important;
+    border: 1px solid #e9ebee !important;
+}
+
+
+#pagelet_bluebar div._2t-a._26aw._5rmj._50ti._2s1y,
+.blueBarDOMInspector > div > div,
+#pagelet_bluebar > div > div > div._2t-a,
+#pagelet_bluebar > div > div > div,
+#pagelet_bluebar #u_0_2 > div {
+    background: #3e537d !important;
+    background-color: #3e537d !important;
+    border-bottom: none;
+}
+
+.groupJumpLayout.groupLitestandClassicJumpLayout > div > div {
+    margin-left: -308px !important;
+    max-width: 700px !important;
+}
+
+.groupJumpLayout.groupLitestandClassicJumpLayout #contentArea {
+    margin-left: 12px !important;
+}
+
+#pagelet_composer div[role="dialog"]._3u14._1b3n {
+    height: 341px !important;
+}
+
+ul[role="menu"] {
+    border: 1px solid #e9ebee !important;
+}
+
+._3x-2 .mtm ._6m2._1zpr.clearfix._dcs._4_w4._6m8._59ap {
+    margin: auto;
+}
+
+.fbUserContent .mtm ._6m2._1zpr.clearfix._dcs._4_w4 {
+    margin: auto;
+}
+
+
+/*.stream_pagelet ._4ikz .lfloat._ohe ._150c ._53j5 {*/
+    /*width: 600px !important;*/
+    /*height: 337px !important;*/
+/*}*/
+
+#stream_pagelet .fbUserContent .userContent .mtm ._2a2q {
+    width: 600px !important;
+    margin: auto !important;
+    display: flex !important;
+
+}
+
+#stream_pagelet .fbUserContent .userContent .mtm ._2a2q > a {
+    flex: 1 !important;
+}
+
+.pagesTimelineLayout #pages_side_column {
+    display: none !important;
+}
+
+.pagesTimelineLayout #pagelet_timeline_main_column {
+    width: 100% !important;
+}
+
+.pagesTimelineLayout #mainContainer div._3-8y {
+    max-width: 695px !important;
+}
+
+.pagesTimelineLayout #pages-header {
+    width: 671px !important;
+}
+
+#globalContainer #content ._1qkq._1ql0 ._4-u2._hoc.clearfix._4-u8 {
+    display: block;
+    margin: auto;
+}
+
+// maybe comment this
+.pagesTimelineLayout #mainContainer > .clearfix ._1qkq ._1ql0 > div {
+    width: 647px !important;
+}
+
+.pagesTimelineLayout #pages-header img {
+    width: 695px !important;
+}
+
+.fbUserContent._5pcr .userContent div._46-h._35ph {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.fbUserContent._5pcr .userContent div._46-h._35ph > img {
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 65% !important;
+}
+
+
+
+.fbUserContent._5pcr ._5pbx.userContent ._3x-2 div._46-h._4-ep > img,
+.fbUserContent._5pcr ._5pbx.userContent ._3x-2 div._46-h._4-ep {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+
+.fbUserContent._5pcr ._3x-2 a > div._4-eo._2t9n,
+.fbUserContent._5pcr ._3x-2 a > div._4-eo._2t9n > img {
+    width: 600px;
+    height: 337px;
+}
+
+li.fbTimelineTwoColumn.fbTimelineUnit.clearfix {
+    overflow: hidden;
+}
+
+#contentArea > div > div > * {
+    /*max-width: 700px !important;*/
+}
+
+#u_fetchstream_4_0,
+#u_fetchstream_4_0 > * {
+    /*max-width: 700px !important;*/
+}
+
+.fbChatSidebarBody {
+    background: rgba(255, 255, 255, 0.55);
+}
+
+#hyperfeed_story_id_59a2ddaa9df804c27815545 > ._31qy._3xaf {
+    max-width: 700px !important;
+}
+
+
