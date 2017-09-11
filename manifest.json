@@ -2,7 +2,7 @@
   "name": "less",
   "short_name": "less",
   "description": "updated design for a better fb expirience",
-  "version": "0.0.182",
+  "version": "0.0.190",
   "icons": {
     "16": "assets/icon_16x16.png",
     "32": "assets/icon_32x32.png",
@@ -11,9 +11,6 @@
   },
   "permissions": [
     "activeTab",
-    "tabs",
-    "storage",
-    "cookies",
     "*://m.facebook.com/",
     "*://*.facebook.com/"
   ],

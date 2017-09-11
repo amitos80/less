@@ -55,6 +55,14 @@ body {
     overflow-x: hidden !important;
 }
 
+.lfloat._ohe ._3m6- img._3chq {
+    display: none !important;
+}
+
+.lfloat._ohe ._3m6- ._5mly._45oh ._53j5[style] {
+    width: 700px !important;
+}
+
 /* post video text on video */
 ._5pcr.fbUserPost  ._5pbx.userContent ._3x-2 ._42ef {
     position: absolute;
@@ -155,6 +163,11 @@ div::before {
 #pages-header ._4-u2,
 #pages-header ._4-u2::before {
     max-width: 796px !important;
+}
+
+._li ._2t-a._26aw._5rmj._50ti._2s1y ._2t-a._50tj ._2t-a._4pmj._2t-d ._2t-f ._cy6._2s24:last-child::before {
+    opacity: 0;
+    left: 73px;
 }
 
 /* div._2a2q[style], */
