@@ -4,6 +4,7 @@ dist/
 node_modules/
 .DS_Store/
 coverage/
+build/
 
 *.iml
 *.log

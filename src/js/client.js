@@ -1,5 +1,7 @@
 'use strict';
 
+import '../css/client.css'
+
 class ExtensionClient {
   constructor() {
 

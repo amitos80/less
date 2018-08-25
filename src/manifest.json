@@ -1,0 +1,45 @@
+{
+  "name": "less",
+  "short_name": "less",
+  "description": "updated design for a better fb expirience",
+  "version": "0.0.195",
+  "background": {
+    "page": "background.html"
+  },
+  "browser_action": {
+    "default_title": "less - better fb experience",
+    "default_popup": "popup.html",
+    "default_icon": "icon-34.png"
+  },
+  "icons": {
+    "16": "icon-16.png",
+    "32": "icon-32.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  },
+  "permissions": [
+    "activeTab",
+    "*://m.facebook.com/",
+    "*://*.facebook.com/"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "http://m.facebook.com/*",
+        "https://m.facebook.com/*",
+        "http://*.facebook.com/*",
+        "https://*.facebook.com/*"
+      ],
+      "js": [
+        "background.bundle.js"
+      ],
+      "css" : ["background.css"]
+    }
+  ],
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "web_accessible_resources": [
+    "icon_38x38.png",
+    "icon_19x19.png"
+  ]
+}
