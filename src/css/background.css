@@ -45,7 +45,7 @@ header {
 }
 
 .fbTimelineTwoColumn table.uiGrid > tbody tr td{
-    //flex: 1 !important;
+//flex: 1 !important;
     width: 103px !important;
     height: 103px !important;
 }
@@ -168,6 +168,14 @@ div::before {
 ._li ._2t-a._26aw._5rmj._50ti._2s1y ._2t-a._50tj ._2t-a._4pmj._2t-d ._2t-f ._cy6._2s24:last-child::before {
     opacity: 0;
     left: 73px;
+}
+
+
+._3u13._3e9r._3u14._1b3n[role="dialog"] {
+    z-index: 999;
+}
+._3u13._3e9r._3u14._1b3n[role="dialog"] i.img.sp_ylNCVGYGXnS.sx_df4beb {
+    margin-right: 83px !important;
 }
 
 /* div._2a2q[style], */
@@ -320,8 +328,8 @@ ul[role="menu"] {
 
 
 /*.stream_pagelet ._4ikz .lfloat._ohe ._150c ._53j5 {*/
-    /*width: 600px !important;*/
-    /*height: 337px !important;*/
+/*width: 600px !important;*/
+/*height: 337px !important;*/
 /*}*/
 
 #stream_pagelet .fbUserContent .userContent .mtm ._2a2q {
@@ -356,9 +364,9 @@ ul[role="menu"] {
     margin: auto;
 }
 
-// maybe comment this
+/* maybe comment this */
 .pagesTimelineLayout #mainContainer > .clearfix ._1qkq ._1ql0 > div {
-    width: 647px !important;
+   width: 647px !important;
 }
 
 .pagesTimelineLayout #pages-header img {
