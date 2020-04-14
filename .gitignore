@@ -13,3 +13,4 @@ build.zip
 
 webpack-assets.json
 webpack-stats.json
+*.zip
