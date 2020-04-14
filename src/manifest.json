@@ -1,8 +1,8 @@
 {
-  "name": "less",
-  "short_name": "less",
-  "description": "updated design for a better fb expirience",
-  "version": "0.0.195",
+  "name": "LessBook - Minimal dark facebook theme",
+  "short_name": "LessBook",
+  "description": "",
+  "version": "0.0.23",
   "background": {
     "page": "background.html"
   },

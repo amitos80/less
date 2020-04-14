@@ -1,5 +1,5 @@
 
-## Chrome extension for cleaner Facebook design (*Inspired by Twitter's feed)
+## Minimal dark facebook theme
 
 - no sidebars
 - flat desing (no shadows, no border-radiuses) 
@@ -10,12 +10,11 @@
 - mobile screen size not supported yet, min width ~700px
 
 ## Screenshots 
-<img width="1283" alt="screen shot 2017-05-03 at 22 09 33" src="https://cloud.githubusercontent.com/assets/1379356/25677075/3c655ef8-304d-11e7-8536-7039195ee699.png">
-<img width="700" alt="screen shot 2017-05-03 at 22 11 18" src="https://cloud.githubusercontent.com/assets/1379356/25677155/8db4569c-304d-11e7-9b6d-8cd4292cd76e.png">
-<img width="443" alt="screen shot 2017-05-03 at 22 15 22" src="https://cloud.githubusercontent.com/assets/1379356/25677283/0be5fa34-304e-11e7-82cd-9dd2afe71139.png">
-<img width="1221" alt="screen shot 2017-05-03 at 21 58 33" src="https://cloud.githubusercontent.com/assets/1379356/25676900/884d6820-304c-11e7-8172-f4ee6109e064.png">
-<img width="1278" alt="screen shot 2017-05-03 at 21 59 54" src="https://cloud.githubusercontent.com/assets/1379356/25676908/8d102db6-304c-11e7-9507-a6652c8f8bdd.png">
-<img width="1356" alt="screen shot 2017-05-03 at 22 18 53" src="https://cloud.githubusercontent.com/assets/1379356/25677416/8ed46cdc-304e-11e7-8fc4-6f3256535cc0.png">
+<img width="1079" alt="Screen Shot 2020-04-14 at 3 21 37" src="https://user-images.githubusercontent.com/1379356/79173080-335bad00-7dff-11ea-9db2-d09ff965e0e9.png">
+<img width="1083" alt="Screen Shot 2020-04-14 at 3 19 22" src="https://user-images.githubusercontent.com/1379356/79173121-525a3f00-7dff-11ea-80cb-44ad0fe0a7b5.png">
+<img width="749" alt="Screen Shot 2020-04-14 at 3 22 27" src="https://user-images.githubusercontent.com/1379356/79173174-7289fe00-7dff-11ea-884d-c9cc14a8b56f.png">
+<img width="1117" alt="Screen Shot 2020-04-14 at 3 20 08" src="https://user-images.githubusercontent.com/1379356/79173168-6ef67700-7dff-11ea-86cb-7b975a9b4bb0.png">
+
 
 
 ## License
